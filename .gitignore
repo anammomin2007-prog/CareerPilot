@@ -1,0 +1,15 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Compiled output
+out/
+
+# CareerPilot local user data
+data/profile.txt
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
